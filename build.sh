@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #TODO pre-fill lib with jars
 rm Aigents.jar
 mkdir bin
